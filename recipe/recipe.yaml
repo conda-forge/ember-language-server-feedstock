@@ -1,5 +1,5 @@
 context:
-  version: "2.30.7"
+  version: "2.30.8"
 
 package:
   name: ember-language-server
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/@ember-tooling/ember-language-server/-/ember-language-server-${{ version }}.tgz
-  sha256: 0ef1476865cc10b53022e96dcd7684c60ebae74fb882c397dd850d1a434c291f
+  sha256: f8dd5f1cf51c526503309c727d9acb4ec2b091013d89f38a8afc775bfbaf3bbe
 
 build:
   number: 0
