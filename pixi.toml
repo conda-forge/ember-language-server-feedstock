@@ -7,7 +7,7 @@
 
 [project]
 name = "ember-language-server-feedstock"
-version = "3.48.1"  # conda-smithy version used to generate this file
+version = "3.50.0"  # conda-smithy version used to generate this file
 description = "Pixi configuration for conda-forge/ember-language-server-feedstock"
 authors = ["@conda-forge/ember-language-server"]
 channels = ["conda-forge"]
